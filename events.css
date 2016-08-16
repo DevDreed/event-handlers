@@ -1,0 +1,28 @@
+.blue-text{
+  color:blue;
+}
+
+.make-large{
+  font-size: 5em;
+}
+
+.add-border {
+  border: 1px solid black;
+}
+
+.add-rounding {
+  border-radius: 10px;
+}
+
+.article-section:first-child{
+  font-weight: bold;
+}
+
+.article-section:last-child{
+  font-weight: bold;
+  font-style: italic;
+}
+
+button{
+  display: block;
+}
